@@ -1,7 +1,7 @@
 
 # Dog Breed classifer using CNN
 
-This article covers different methods to classify images of dogs according to their breed using Convolutional Neural Network (CNN). The target is to achieve as high accuracy as possible.
+This article covers different methods to classify images of dogs according to their breed using Convolutional Neural Network (CNN). The target is to achieve as high accuracy as possible. Please find the article at https://dogbreedclassifer.blogspot.com/
 
 
 ## Motivation
